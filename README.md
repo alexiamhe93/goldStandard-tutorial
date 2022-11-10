@@ -10,7 +10,7 @@ This repository contains three tutorial Python notebooks concerning **how to mea
 
 ## Data description
 
-The [data](/data/) folder contains the datasets for the tutorial notebooks and the [dictionaries](/data/dictionaries/) for the rule-based classifier. The notebook tutorials automatically link to these folders and it is therefore not necessary to download the data.
+The [data](Data/) folder contains the datasets for the tutorial notebooks and the [dictionaries](Data/dictionaries/) for the rule-based classifier. The notebook tutorials automatically link to these folders and it is therefore not necessary to download the data.
 
 # Demonstration of trained Misunderstanding BERT classifier:
 
