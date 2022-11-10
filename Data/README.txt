@@ -1,6 +1,6 @@
-Contained within this folder is a dataset of sentences manually coded for misunderstandings. 
-The "IRR_misunderstandings_data.csv" (for use in Tutorial 1) is a subset of the "Full_misunderstandings_data.csv" (for use in Tutorial 2)
-The dataset is a random sample of data from:
+#Dataset description
+
+Contained within this folder is a dataset of sentences manually coded for misunderstandings. The "IRR_misunderstandings_data.csv" (for use in Tutorial 1) is a subset of the "Full_misunderstandings_data.csv" (for use in Tutorial 2). The dataset is a random sample of dialogues from:
 
 1. Data downloaded through the Reddit API
 
@@ -14,12 +14,16 @@ This data was downloaded from: https://www.kaggle.com/datasets/thoughtvector/cus
 
 This data was downloaded using Cornell University's ConvoKit Python package (see: https://convokit.cornell.edu/documentation/wiki.html) (Copyright: CC BY 4.0)
 
-Also ontained within this folder is also two .csv files used for the rule-based dictionary classifier detailed in Tutorial 2. 
-The "Misunderstandings_dictionary.csv" comprises a list of phrases used to identify misunderstandings.
-The "Augmenting_dictionary.csv" comprises of synonyms or alternative words to augment the list of phrases in the main dictionary.
+The full dataset contains 21,994 sentences coded for misunderstanding. These can be reconstructed into turns (using the Turn_id column) and dialogues (using the group column). All author names and sentences have been anonymized.
+
+# Dictionary description
+
+Also contained within this folder is a sub-folder with two .csv files used for the rule-based dictionary classifier detailed in Tutorial 2. The "Misunderstandings_dictionary.csv" comprises a list of phrases used to identify misunderstandings. The "Augmenting_dictionary.csv" comprises of synonyms or alternative words to augment the list of phrases in the main dictionary.
 
 References: 
 
 Danescu-Niculescu-Mizil, C., Lee, L., Pang, B., & Kleinberg, J. (2012). Echoes of power: Language effects and power differences in social interaction. Proceedings of the 21st International Conference on World Wide Web, 699–708. https://doi.org/10.1145/2187836.2187931
 
 Thought Vector, & Axelbrooke, S. (2017). Customer Support on Twitter (v10). https://kaggle.com/thoughtvector/customer-support-on-twitter
+
+**NOTE** the zip files contain copies of the datasets/dictionaries, used by the tutorial notebooks for downloading the data.
