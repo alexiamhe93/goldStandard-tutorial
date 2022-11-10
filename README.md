@@ -18,8 +18,8 @@ Also included is a [demonstration notebook](Demonstration_BERT_Misunderstanding_
 
 # References:
 
-Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), 4171-4186. https://doi.org/10.18653/v1/N19-1423
+Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. *Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)*, 4171-4186. https://doi.org/10.18653/v1/N19-1423
 
-Honnibal, M., Montani, I., Van Landeghem, S., & Boyd, A. (2022). spaCy: Industrial-strength natural language processing in Python. Explosion.
+Honnibal, M., Montani, I., Van Landeghem, S., & Boyd, A. (2022). *spaCy: Industrial-strength natural language processing in Python*. Explosion.
 
 Maiya, A.S. (2022). ktrain: A Low-Code Library for Augmented Machine Learning. (arXiv:2004.10703). arXiv. https://doi.org/10.48550/arXiv.2004.10703
