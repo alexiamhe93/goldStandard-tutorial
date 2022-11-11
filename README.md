@@ -12,7 +12,7 @@ This repository contains three tutorial Python notebooks concerning **how to mea
 
 The [data](Data/) folder contains the datasets for the tutorial notebooks and the [dictionaries](Data/Dictionaries/) for the rule-based classifier. The notebook tutorials automatically link to these folders and it is therefore not necessary to download the data.
 
-# Demonstration of trained Misunderstanding BERT classifier:
+## Demonstration of trained Misunderstanding BERT classifier:
 
 Also included is a [demonstration notebook](Demonstration_BERT_Misunderstanding_Predictor.ipynb) allowing the user to experiment with our trained classifier (`F1-score = 0.81`). It allows the user to type in a sentence and observe the classifier's prediction. For the demonstration to work, the notebook should be run in Google Colab.
 
