@@ -4,10 +4,9 @@ This repository contains three tutorial Python notebooks concerning **how to mea
 
 ## Tutorial notebooks description
 
-1. [Tutorial 1](Tutorial_1_Inter_rater_reliability.ipynb): Conducting inter-rater reliability on a subset of a gold-standard dataset, hand-coded by multiple coders for a psychological construct. *Average run time: 5-10 minutes.*
-2. [Tutorial 2](Tutorial_2_Rule_based_dictionary_classifier.ipynb): Developing and validating a rule-based dictionary classifier using the gold-standard dataset. This tutorial relies heavily on the [spaCy](https://spacy.io/) Python package (Honnibal et al., 2020), specifically it's [rule-based matcher](https://spacy.io/usage/rule-based-matching). *Average run time: 2 hours.*
-3. [Tutorial 3](Tutorial_3_Deep_learning_BERT_classifier.ipynb): Developing and validating a deep-learning classifier using the gold-standard dataset (fine-tuning a [BERT](https://aclanthology.org/N19-1423/) (Devlin et al., 2019) model through transfer learning). This tutorial relies heavily on the [ktrain](https://github.com/amaiya/ktrain) Python package (Maiya, 2020). *Average run time: 1 hour.* 
-
+1. [Tutorial 1](Tutorial_1_Inter_rater_reliability.ipynb) (Average run time: 5-10 minutes): Conducting inter-rater reliability on a subset of a gold-standard dataset, hand-coded by multiple coders for a psychological construct. 
+2. [Tutorial 2](Tutorial_2_Rule_based_dictionary_classifier.ipynb) (Average run time: 2 hours): Developing and validating a rule-based dictionary classifier using the gold-standard dataset. This tutorial relies heavily on the [spaCy](https://spacy.io/) Python package (Honnibal et al., 2020), specifically it's [rule-based matcher](https://spacy.io/usage/rule-based-matching). 
+3. [Tutorial 3](Tutorial_3_Deep_learning_BERT_classifier.ipynb) (Average run time: 1 hour): Developing and validating a deep-learning classifier using the gold-standard dataset (fine-tuning a [BERT](https://aclanthology.org/N19-1423/) (Devlin et al., 2019) model through transfer learning). This tutorial relies heavily on the [ktrain](https://github.com/amaiya/ktrain) Python package (Maiya, 2020). 
 ## Data description
 
 The [data](Data/) folder contains the datasets for the tutorial notebooks and the [dictionaries](Data/Dictionaries/) for the rule-based classifier. The notebook tutorials automatically link to these folders and it is therefore not necessary to download the data.
